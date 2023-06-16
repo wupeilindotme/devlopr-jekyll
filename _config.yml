@@ -3,7 +3,7 @@ subtitle: docs@wupeilin
 description: >- # this means to ignore newlines until "baseurl:"
   一个普通程序员的工作、学习记录
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://wupeilindotme.github.io/" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
